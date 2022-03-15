@@ -1,0 +1,14 @@
+#right {
+    padding: 10px;
+}
+#frmRegistration {
+    width: 900px;
+    margin-left: 250px;
+}
+#frmRegistration h1 {
+    padding: 140px;
+    padding-bottom:15px;
+}
+#frmRegistration form {
+    margin-left: 150px;
+}
